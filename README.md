@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Huiya&fontSize=90" />
   </div>	
 <br>
+<details>
+<summary>Can use_</summary>
+
 <div align="center">
   🖥Can use_coding🖥<br>
   </div>
@@ -12,6 +15,7 @@
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
   <br>
 <div align="center">
@@ -30,11 +34,20 @@
 </div>
 <br>
 <div align="center">
+  🎮Can use_Gametool🎮<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white" />
+	<img src="https://img.shields.io/badge/Autodesk_3DsMax-0696D7?style=flat&logo=Autodesk&logoColor=white" />
+<div align="center">
   🎁My Portfolio🎁<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=Google Drive&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+
+</details>
 	
+⛪Bachelor of Arts in Korean Literature & GameVR(Double major)
+
 	
   
 ### 공사중... 👋
