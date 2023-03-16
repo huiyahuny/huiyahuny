@@ -51,7 +51,8 @@
 </details>
 	
 ⛪Bachelor of Arts in Korean Literature & GameVR(Double major)<br>
-📧rose3630806@gmail.com<br>
+📧rose3630806@gmail.com (business)<br>
+📧rose3630806@naver.com (business + @)<br>
 📍Busan, South Korea<br>
 🛫love travel<br>
 	
