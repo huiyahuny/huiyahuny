@@ -54,6 +54,7 @@
 📧rose3630806@gmail.com (business)<br>
 📧rose3630806@naver.com (business + @)<br>
 📍Busan, South Korea<br>
+🏦semicolons Product Manager
 🛫love travel<br>
 	
   
