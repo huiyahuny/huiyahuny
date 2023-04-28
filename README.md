@@ -56,7 +56,9 @@
 📍Busan, South Korea<br>
 🏦semicolons Product Manager<br>
 🛫love travel<br>
-Web UI/UX
+Web UI/UX <br>
+Marketing <br>
+
 	
   
 ### 공사중... 👋
